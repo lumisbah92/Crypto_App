@@ -33,3 +33,5 @@ const CoinCard = ({ id, name, img, symbol, price, currencySymbol="৳"}) => (
 );
 
 export default CoinCard;
+
+// hello
